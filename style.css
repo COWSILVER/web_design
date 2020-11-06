@@ -1,3 +1,48 @@
-.text{
-    color:red;
+
+
+@font-face {
+    font-family:BlackHanSans-Regular;
+    src: url('font/BlackHanSans-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:Cafe24Ohsquare;
+    src: url('font/Cafe24Ohsquare.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+header {
+   background-color: white;
+    width: 70%;
+    margin-right: auto; 
+    border-top:none;
+    margin-left: auto; 
+      padding: 10px;
+} 
+
+body{
+    background-color:#6BE0FC;
+    font-size: 40px;
+    font-style: normal;
+    font-family: BlackHanSans-Regular;
+}
+
+.medium{
+    font-family:Cafe24Ohsquare;
+    font-size:x-large;
+    text-align: center;
+    text-decoration: none;
+    line-height: 0.1%;
+}
+
+.x-large{
+    font-family:BlackHanSans-Regular;
+    font-size: xx-large;
+    text-decoration-line: underline;
+    text-emphasis:10px;
+    text-emphasis-color: aqua;
+    text-decoration:
 }
