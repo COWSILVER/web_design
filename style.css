@@ -23,6 +23,9 @@ header {
       padding: 10px;
 } 
 
+.h1{
+    color: 28D0FF;
+}
 body{
     background-color:#6BE0FC;
     font-size: 40px;
@@ -42,7 +45,16 @@ body{
     font-family:BlackHanSans-Regular;
     font-size: xx-large;
     text-decoration-line: underline;
-    text-emphasis:10px;
-    text-emphasis-color: aqua;
     text-decoration:
 }
+
+footer{ 
+    width:70%; 
+    margin-right: auto; 
+    margin-left: auto; 
+    padding:10px; 
+    background-color:#28D0FF; 
+    color:white; 
+    text-align:center;
+    font-size: 15px;
+    font-family: sans-serif;
